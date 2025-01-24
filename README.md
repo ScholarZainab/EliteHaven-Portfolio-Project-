@@ -69,8 +69,7 @@ EliteHaven/ ├── index.html # Main HTML file ├── css/ │ ├── s
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/EliteHaven.git
-   cd EliteHaven
+   git clone [https://github.com/your-username/EliteHaven.git](https://github.com/ScholarZainab/EliteHaven-Portfolio-Project-)
 Open index.html in a web browser:
 open index.html
 Alternatively, use a local server for development:
