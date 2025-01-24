@@ -93,8 +93,9 @@ Admin Dashboard:
 Add features for property and blog management.
 Responsive Design:
 Fully optimize for all screen sizes and devices.
-Contributing
-We welcome contributions to this project! Please follow these steps:
+------------------
+Contributing:
+ welcome contributions to this project! Please follow these steps:
 
 Fork the repository.
 Create a new branch (feature-name).
